@@ -19,7 +19,7 @@ int main(){
         %f = numero decimal
         %e = numero decimal em notação cientifica
         %s = string (texto)
-        %c = caractere
+        %c = um único caractere
     */
 
     printf("Digite seu nome: ");
