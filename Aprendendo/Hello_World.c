@@ -2,4 +2,6 @@
 
 int main() {
     printf("Hello, World!\n");
+    // \n = saltar linha
+    
 }
