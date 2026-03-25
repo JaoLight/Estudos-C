@@ -21,9 +21,10 @@ Criar uma base sólida para linguagens mais avançadas
 ✅ Entrada e saída de dados (printf, scanf)
 ✅ Operadores básicos
 ✅ Estruturas condicionais
- Laços de repetição
- Funções
- Ponteiros
+Laços de repetição
+Funções
+Ponteiros
+
 💡 Observações
 
 Este repositório faz parte do meu aprendizado, então:
